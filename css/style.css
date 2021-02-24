@@ -1,0 +1,49 @@
+
+#headerciné {
+    background-color: rgb(138, 223, 223);
+}
+
+.container {
+    margin-top: 20px;
+    background-color: rgb(195, 255, 255);
+    border-radius: 30px;
+}
+
+#headerciné h1 {
+    text-align: center;
+    font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#fichesfilms .Poster {
+    padding: 20px;
+    width: 30vw;
+    height: 40vw;
+    border-radius: 30px;
+}
+
+#fichesfilms .Title {
+    text-decoration: underline darkred ;
+    color: darkred;
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+#fichesfilms .Plot {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align: left;
+    font-size: 25px;
+}
+
+#fichesfilms .Images {
+    width: 100%;
+    border-radius: 10px;
+  
+}
+.notation{
+    display: flex;
+    align-items: flex-end;
+
+}
